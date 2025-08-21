@@ -13,7 +13,6 @@ Each notebook includes **explanations**, **code examples**, and **visualizations
 
 ---
 
-## 📜 Notebook Details
 
 ### 00 — Use of Linear Algebra in ML
 **Goal:**  
@@ -35,6 +34,7 @@ Turn conceptual math notes into runnable demos showing:
 - Decision boundaries are where the linear model output equals zero.
 
 ---
+
 
 ## 📌 Template for Adding Future Notebooks
 
